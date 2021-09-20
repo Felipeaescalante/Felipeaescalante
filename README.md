@@ -5,7 +5,6 @@
 ### Hi Everyone !! 👋
 <hr>
 <p>I am a creative person, with a great capacity for team work and with entrepreneurial spirit. I am very bullish on diving into my first software development job, eager to contribute a lot and learn every day. 😄😄. <p/>
- I am a Full Stack Web Developer, received at Henry intensive bootcamp with +700 hours.
 </p>
 
 > In constant training on new technologies and delving deeper into the ones I know. 💻 
