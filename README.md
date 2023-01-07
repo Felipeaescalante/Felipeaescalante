@@ -24,7 +24,7 @@
  <p>
     <a href="https://drive.google.com/file/d/159Zg68pUc51PqRYgw9zypbBon-i-T5VT/view?usp=share_link" rel="nofollow">
         <img alt="CV"
- src="https://www.flaticon.es/icono-gratis/cv_2807415" height="22";> CV
+ src="https://toppng.com/public/uploads/preview/cv-2-11550709860k8qtdhqerf.png" height="22";> CV
    </a>
      
 </p>
