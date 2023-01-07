@@ -22,7 +22,7 @@
     </a> 
  </p>
  <p>
-    <a href="https://drive.google.com/file/d/1ddI5ibOnZaez4M7nKgnb8nE4R7gZJVx2/view?usp=sharing" rel="nofollow">
+    <a href="https://drive.google.com/file/d/13ctqKE4kYoNqqFRXGDOzmadaAI41eWkz/view?usp=share_link" rel="nofollow">
         <img alt="CV"
  src="https://image.flaticon.com/icons/png/512/65/65718.png" height="22";> CV
    </a>
